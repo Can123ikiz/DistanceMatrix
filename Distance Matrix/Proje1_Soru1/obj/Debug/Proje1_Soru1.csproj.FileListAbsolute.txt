@@ -1,0 +1,7 @@
+D:\C#\Proje1_Soru1\Proje1_Soru1\bin\Debug\Proje1_Soru1.exe.config
+D:\C#\Proje1_Soru1\Proje1_Soru1\bin\Debug\Proje1_Soru1.exe
+D:\C#\Proje1_Soru1\Proje1_Soru1\bin\Debug\Proje1_Soru1.pdb
+D:\C#\Proje1_Soru1\Proje1_Soru1\obj\Debug\Proje1_Soru1.csproj.AssemblyReference.cache
+D:\C#\Proje1_Soru1\Proje1_Soru1\obj\Debug\Proje1_Soru1.csproj.CoreCompileInputs.cache
+D:\C#\Proje1_Soru1\Proje1_Soru1\obj\Debug\Proje1_Soru1.exe
+D:\C#\Proje1_Soru1\Proje1_Soru1\obj\Debug\Proje1_Soru1.pdb
